@@ -1,4 +1,4 @@
-IFS(
+=IFS(
 C2<-20, "Highly Discriminative",
 C2>20, "Highly Discriminative",
 C2<-10, "Unfair",
