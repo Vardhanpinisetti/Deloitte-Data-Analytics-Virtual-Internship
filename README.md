@@ -3,7 +3,7 @@
 
 This repository contains my submissions and work from the **Deloitte Data Analytics Virtual Internship** offered on Forage. The internship provided hands-on experience with real-world business data, allowing me to build analytical dashboards and perform data classification tasks.
 
-## 🔍 Tasks Completed
+### **Tasks Completed**
 
 ### Task 1: Telemetry Data Analysis using Tableau
 Your task is to analyse the telemetry data collected by Daikibo in a software called Tableau. Here are the steps that you need to take:
@@ -17,6 +17,9 @@ Your task is to analyse the telemetry data collected by Daikibo in a software ca
 8.	Select the factory with the most down time (click on its bar), make a screenshot of the dashboard and upload it as a submission for this task.
 
 ### **Dashboard Image** (Output): ![Dashboard Image](https://github.com/user-attachments/assets/6f86a9b7-9dd6-4876-83b5-c4343601736b)
+
+
+
 
 
 ### Task 2: Forensic Technology – Equality Score Classification
