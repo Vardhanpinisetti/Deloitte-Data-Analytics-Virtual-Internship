@@ -1,0 +1,7 @@
+IFS(
+C2<-20, "Highly Discriminative",
+C2>20, "Highly Discriminative",
+C2<-10, "Unfair",
+C2>10, "Unfair",
+C2>=-10, "Fair",
+C2<=10, "Fair")
